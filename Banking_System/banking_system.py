@@ -1,5 +1,5 @@
 
-# defining functions
+# declaring Functions
 
 def show_balance():
     print(f'Your Balance is : ${balance:.2f}')
